@@ -4,5 +4,10 @@
   "description": "The ultimate meme coin for lions!",
   "supply": 10000000,
   "image": "https://raw.githubusercontent.com/TheLeocoin/website/a730b4e11a3e90a29b580de70d5f089ca8947122/logo.png",
-  "website": "https://babylion.io"
+  "website": "https://babylion.io",
+  "social": [
+    "https://t.me/theleocoin",
+    "https://t.me/leocoinclub",
+    "https://x.com/leocoinclub"
+  ]
 }
